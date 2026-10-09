@@ -1,0 +1,7 @@
+parametro,valor,unidad
+pendiente_a,-0.1657,V/pH
+intercepto_b,6.0982,V
+R2,0.9996,-
+sensibilidad_teorica_Av_S,0.1775,V/pH
+error_sensibilidad,6.65,%
+intercepto_teorico,6.192,V
